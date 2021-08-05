@@ -1,0 +1,9 @@
+---
+pt:
+  activerecord:
+    errors:
+      messages:
+        blank: ""
+  models:
+    organizarion: ""
+...

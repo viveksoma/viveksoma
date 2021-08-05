@@ -1,0 +1,46 @@
+---
+pt:
+  custom_terminologies:
+    project:
+      one: ""
+      other: ""
+    milestone:
+      one: ""
+      other: ""
+    objective:
+      one: ""
+      other: ""
+    key_result:
+      one: ""
+      other: ""
+    okr:
+      one: ""
+      other: ""
+    task:
+      one: ""
+      other: ""
+    child_objective:
+      one: ""
+      other: ""
+    child_key_result:
+      one: ""
+      other: ""
+    kpi:
+      one: ""
+      other: ""
+    activity:
+      one: ""
+      other: ""
+    objective_explorer:
+      one: ""
+      other: ""
+    organization:
+      one: ""
+      other: ""
+    team:
+      one: ""
+      other: ""
+    individual:
+      one: ""
+      other: ""
+...
