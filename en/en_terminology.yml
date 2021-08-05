@@ -1,0 +1,14 @@
+---
+en:
+  activerecord:
+    custom_terminology:
+      errors:
+        invalid: not valid
+        missing: old changed
+        new: Modified
+        create: Create modif
+        new_key: New asigne
+        task: project
+        milestone: Sprint
+        data: Data
+...

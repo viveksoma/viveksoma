@@ -1,0 +1,14 @@
+---
+pt:
+  activerecord:
+    custom_terminology:
+      errors:
+        invalid: inválido
+        missing: velho mudou
+        new: Modificados
+        create: Criar modif
+        new_key: Novo asigne
+        task: tarefa
+        milestone: corrida
+        data: Dados
+...
