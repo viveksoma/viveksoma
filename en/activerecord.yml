@@ -1,0 +1,9 @@
+---
+en:
+  activerecord:
+    errors:
+      messages:
+        blank: can't be blank
+  models:
+    organizarion: Organization
+...

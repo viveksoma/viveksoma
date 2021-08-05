@@ -1,0 +1,46 @@
+---
+en:
+  custom_terminologies:
+    project:
+      one: Project
+      other: Projects
+    milestone:
+      one: Milestone
+      other: Milestones
+    objective:
+      one: Objective
+      other: Objectives
+    key_result:
+      one: Key Result
+      other: Key Results
+    okr:
+      one: OKR
+      other: OKRs
+    task:
+      one: Task
+      other: Tasks
+    child_objective:
+      one: Child Objective
+      other: Child Objectives
+    child_key_result:
+      one: Child Key Result
+      other: Child Key Results
+    kpi:
+      one: KPI
+      other: KPIs
+    activity:
+      one: Activity
+      other: Activities
+    objective_explorer:
+      one: Objective Explorer
+      other: Objective Explorers
+    organization:
+      one: Organization
+      other: Organizations
+    team:
+      one: Team
+      other: Teams
+    individual:
+      one: Individual
+      other: Individuals
+...
