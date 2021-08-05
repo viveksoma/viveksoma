@@ -1,0 +1,11 @@
+---
+en:
+  activerecord:
+    models:
+      team: team
+    attributes:
+      team:
+        name: Name
+        owner: Manager
+        organization: Organization
+...

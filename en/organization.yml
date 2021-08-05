@@ -1,0 +1,10 @@
+---
+en:
+  activerecord:
+    models:
+      organization: Organization
+      asdf: asd
+      value: value
+      okrs: Admin
+      string: Strings
+...
