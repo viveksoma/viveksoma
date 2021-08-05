@@ -1,0 +1,11 @@
+---
+pt:
+  activerecord:
+    models:
+      team: ""
+    attributes:
+      team:
+        name: ""
+        owner: ""
+        organization: ""
+...

@@ -1,0 +1,10 @@
+---
+pt:
+  activerecord:
+    models:
+      organization: Organização
+      asdf: asd
+      value: valor
+      okrs: Admin
+      string: Cordas
+...
